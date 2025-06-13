@@ -1,6 +1,4 @@
-// JavaScript validation script
 document.addEventListener("DOMContentLoaded", function () {
-  // Form and feedback div selection
   const form = document.getElementById("registration-form");
   const feedbackDiv = document.getElementById("form-feedback");
 
